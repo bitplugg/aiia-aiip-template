@@ -1,7 +1,0 @@
-com.aiia.plugin.sdk-pngs-0 /home/bitplugg/app/plugins/aiip_sdk/build/generated/res/pngs/release
-com.aiia.plugin.sdk-resValues-1 /home/bitplugg/app/plugins/aiip_sdk/build/generated/res/resValues/release
-com.aiia.plugin.sdk-mergeReleaseResources-2 /home/bitplugg/app/plugins/aiip_sdk/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
-com.aiia.plugin.sdk-mergeReleaseResources-3 /home/bitplugg/app/plugins/aiip_sdk/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-com.aiia.plugin.sdk-release-4 /home/bitplugg/app/plugins/aiip_sdk/build/intermediates/merged_res/release/mergeReleaseResources
-com.aiia.plugin.sdk-main-5 /home/bitplugg/app/plugins/aiip_sdk/src/main/res
-com.aiia.plugin.sdk-release-6 /home/bitplugg/app/plugins/aiip_sdk/src/release/res
